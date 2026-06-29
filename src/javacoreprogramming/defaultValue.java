@@ -1,6 +1,6 @@
 package javacoreprogramming;
 
-public class Q2 {
+public class defaultValue {
     static byte a;
     static short s;
     static char c;

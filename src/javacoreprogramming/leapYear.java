@@ -2,7 +2,7 @@ package javacoreprogramming;
 
 import java.util.Scanner;
 
-public class Q7 {
+public class leapYear {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a year");

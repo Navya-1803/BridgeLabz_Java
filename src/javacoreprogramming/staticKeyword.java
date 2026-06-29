@@ -1,6 +1,6 @@
 package javacoreprogramming;
 
-public class Q6 {
+public class staticKeyword {
     static int num = 10;
     static int number = 100;
 
@@ -21,9 +21,9 @@ public class Q6 {
 
     public static void main(String[] args) {
         System.out.println("Main Method Executed");
-        Q6.num = 50;
+        staticKeyword.num = 50;
         System.out.println("modified num");
 
-        Q6.display();
+        staticKeyword.display();
     }
 }

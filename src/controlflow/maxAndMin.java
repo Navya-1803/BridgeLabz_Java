@@ -2,7 +2,7 @@ package controlflow;
 
 import java.util.Scanner;
 
-public class Operators1 {
+public class maxAndMin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter num 1");

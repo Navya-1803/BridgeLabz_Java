@@ -2,7 +2,7 @@ package controlflow;
 
 import java.util.Scanner;
 
-public class Switch2 {
+public class monthName {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a month number");

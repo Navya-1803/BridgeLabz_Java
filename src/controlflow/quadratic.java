@@ -2,7 +2,7 @@ package controlflow;
 
 import java.util.Scanner;
 
-public class Operators3 {
+public class quadratic {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("To find the square root of the equation: a*x*x+b*x+c");

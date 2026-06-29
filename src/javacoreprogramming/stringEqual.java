@@ -1,6 +1,6 @@
 package javacoreprogramming;
 
-public class Q3 {
+public class stringEqual {
     static String s = "Java";
     static String b = "Java";
 

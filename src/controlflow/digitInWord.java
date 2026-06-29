@@ -2,7 +2,7 @@ package controlflow;
 
 import java.util.Scanner;
 
-public class If1 {
+public class digitInWord {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a digit");
